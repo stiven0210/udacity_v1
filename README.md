@@ -1,10 +1,6 @@
 # udacity_v1
 Date created
-<<<<<<< HEAD
 august.05 2022
-=======
-august  - 05 - 2022
->>>>>>> documentation
 
 Post your Work on GitHub
 Description
@@ -17,8 +13,5 @@ The following file contains necessary commands used to do tasks:
 Git Commands Documentation.pdf
 Credits
 Git documentation is very usefull.
-<<<<<<< HEAD
 https://git-scm.com/doc
-=======
-https://git-scm.com/doc
->>>>>>> documentation
+
